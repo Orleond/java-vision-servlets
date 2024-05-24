@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="java-vision-servlets:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_vision_servlets_Web</output-path>
+    <root id="archive" name="java-vision-servlets_Web.war">
+      <element id="artifact" artifact-name="java-vision-servlets:Web exploded" />
+    </root>
+  </artifact>
+</component>
